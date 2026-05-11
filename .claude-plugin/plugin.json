@@ -1,0 +1,17 @@
+{
+  "name": "financial-plugin",
+  "version": "0.1.0",
+  "description": "Cabinet Chraibi business-plan analyst team: /analyse skill orchestrating 7 specialist subagents (lead, finance, market, investment, legal, risk, challenger) through a two-round critique-and-revise pipeline that produces a French memo.",
+  "author": {
+    "name": "kadser",
+    "email": "kadser119@gmail.com"
+  },
+  "keywords": [
+    "business-plan",
+    "analysis",
+    "finance",
+    "consulting",
+    "french",
+    "multi-agent"
+  ]
+}
