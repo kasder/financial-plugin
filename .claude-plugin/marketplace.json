@@ -9,7 +9,7 @@
       "name": "financial-plugin",
       "source": "./",
       "description": "Cabinet Chraibi business-plan analyst team — /analyse skill + 7 specialist subagents.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "analysis",
       "tags": ["business-plan", "finance", "consulting", "french", "multi-agent"]
     }
